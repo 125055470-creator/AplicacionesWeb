@@ -30,25 +30,20 @@ echo "Holi boli!";
         .section {
             background-color: #78ff7f;
             padding: 20px 40px;
-            margin-top: 20px; /* Arriba */
-            margin-right: 30px; /* Derecha */
-            margin-bottom: 40px; /* Abajo */
-            margin-left: 50px; /* Izquierda */
-            border: 10px solid black;
+            
             }
 
             .rosa {
                 background-color: #f569e2;
-            padding-top: 20px; /* Arriba */
-            padding-right: 40px; /* Derecha */
-            padding-bottom: 40px; /* Abajo */
-            padding-left: 40px; /* Izquierda */
+            padding-top: 20px; 
+            padding-right: 40px; 
+            padding-bottom: 40px;
+            padding-left: 40px; 
 
-            margin-top: 20px; /* Arriba */
-            margin-right: 30px; /* Derecha */
-            margin-bottom: 40px; /* Abajo */
-            margin-left: 50px; /* Izquierda */
-            border: 2px Dotted red;
+            margin-top: 20px; 
+            margin-right: 30px; 
+            margin-bottom: 40px;
+            margin-left: 50px;
             }
     </style>
  </head>
